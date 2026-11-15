@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+vault.json
+vault*.json
+*.lock.json
+.DS_Store
+new_vault.json
